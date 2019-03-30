@@ -1,0 +1,2 @@
+#ajuda
+help(sd)
