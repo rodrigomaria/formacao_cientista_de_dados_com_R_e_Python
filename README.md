@@ -5,6 +5,7 @@ Repositório para armazenamento do material do curso da plataforma Udemy: Forma�
 - Amostragem
 - Medidas de centralidade e variabilidade
 - Probabilidade
+- Distribuição binomial
 
 # Fundamentos de R
 - Pacotes
